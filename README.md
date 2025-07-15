@@ -1,4 +1,5 @@
 # RIR Data Parser 🌍
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](link) ![Static Badge](https://img.shields.io/badge/Validation-Pending-red) [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 A Python tool that downloads and processes Regional Internet Registry (RIR) data to create IP-to-country lookup tables. Supports multiple output formats including JSON, CSV, and SQLite database.
 
